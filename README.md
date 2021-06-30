@@ -10,6 +10,8 @@
   <br>
   Salida:
   <br>Hola Mundo
+#local development
+1. Abrir el archivo con las instrucciones
 
   #fin del archivo
   </div>
